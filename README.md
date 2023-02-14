@@ -1,10 +1,10 @@
-```
 
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://github.com/guacirita/landingpagealura/commit/6f310ba7f59cdd75da08eb36fc1a1b4407fe0a97)
+### Portfólio desenvolvido no curso de HTML e CSS da Alura.
 
-## Ferramentas utilizadas:
+![image](https://raw.githubusercontent.com/guacirita/landingpagealura/6f310ba7f59cdd75da08eb36fc1a1b4407fe0a97/img/capa%20landing%20page.png)
+
+### Ferramentas utilizadas:
 
 * HTML
 
@@ -12,10 +12,10 @@
 
 * Flex-box
 
-## Feito por:
+### Feito por:
 
 ### Jacira Sousa
 
-### Linkedin: https://www.linkedin.com/in/jacira-sousa-602622241/
+#### Linkedin: https://www.linkedin.com/in/jacira-sousa-602622241/
 
-```
+
